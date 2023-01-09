@@ -37,13 +37,6 @@ board via two copper coils near the power input.
 
 <img width="487" alt="New Revision" src="https://user-images.githubusercontent.com/122238863/211227778-1ddf5473-4a3c-4a39-8b77-e67c44fded9f.png">
 
-#### `roms/spn5b-w.bin.old`
-
-This firmware was read from an older revision board from a working subwoofer. You can identify an older revision board
-via one copper coil near the power input.
-
-**This firware has not been tested on replacement EEPROM chips.**
-
 ## Parts
 
 You can purchase replacement EEPROM chips online relatively cheap (~US$0.50). The chip used during this specific repair
