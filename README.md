@@ -24,6 +24,8 @@ pairing to the soundbar.
 
 **Before attempting an EEPROM replacement, try factory resetting both the soundbar and subwoofer.**
 
+![Blinking Green Light](https://user-images.githubusercontent.com/122238863/211229850-097c9f59-0e2e-41ed-9161-308cbdfa7fc6.gif)
+
 ## ROM's
 
 #### `roms/spn5b-w.bin`
